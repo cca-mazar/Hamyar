@@ -1,4 +1,4 @@
-# Hamyar The First Motorbike Web Application In Afghanistan.
+# The First Motorbike Web Application In Afghanistan.
 
 <!DOCTYPE html>
 <html lang="en">
